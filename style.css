@@ -8,7 +8,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 10px1-;
+    margin: 10px;
 }
 
 #navMid {
@@ -56,7 +56,6 @@
 
 #monstera {
     font-size: 90px;
-    /* font-family: "Allerta"; */
 }
 
 #midWholePart121 {
